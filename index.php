@@ -1,1 +1,1 @@
-<?php include_once("indext-dts.html"); ?>
+<?php include_once("index-dts.html"); ?>
